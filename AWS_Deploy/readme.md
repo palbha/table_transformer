@@ -8,8 +8,8 @@ Run the below commands step by step <br>
             <li>### Activate Virtual Environment <br> source myenv/bin/activate</li>
             <li>#Run App using <br> streamlit run streamlit_app.py item</li>
 </ol>
-Once you see  ![image](https://github.com/palbha/table_transformer/assets/20269788/e02940e9-d9b6-4358-801e-6011f3f71e21)
-
+Once you see the below
+![image](https://github.com/palbha/table_transformer/assets/20269788/d2faf8c9-ffe1-41ad-8ac2-8d030cc03dda)
 
 You should update the Security group inbound rules to add port 8501 <br>
 ![image](https://github.com/palbha/table_transformer/assets/20269788/7d23148d-a92d-4ee4-bd07-111d4936e858)
