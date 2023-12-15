@@ -1,6 +1,6 @@
 Create an EC2 instance in AWS <br>
 Connect to EC2 instance using SSH & copy the correpsonding files - requirements.txt & streamlit_app.py <br>
-* You can utilize Putty to connect to ec2 instance & winscp to copy the files of leverage visual studio terminal to connect & copy files *<br>
+*You can utilize Putty to connect to ec2 instance & winscp to copy the files of leverage visual studio terminal to connect & copy files* <br>
 Run the below commands step by step <br>
 <ol>
             <li>### Create Virtual Environment <br> python3 -m venv myenv</li>
@@ -9,12 +9,13 @@ Run the below commands step by step <br>
             <li>#Run App using <br> streamlit run streamlit_app.py item</li>
 </ol>
 Once you see the below <br>
-![image](https://github.com/palbha/table_transformer/assets/20269788/d6e50ff5-716a-4d76-8849-c998627bfea3)
+![image](https://github.com/palbha/table_transformer/assets/20269788/190eae28-a5ed-4850-81cc-39e006401e21)
+
 
 
 You should update the Security group inbound rules to add port 8501 <br>
 ![image 2](https://github.com/palbha/table_transformer/assets/20269788/7d23148d-a92d-4ee4-bd07-111d4936e858)
 
 Once done you can click on the link and your app will be up and running . <br>
-* PS: Make sure your url is http not https otherwise you will still get "Site can't be reached" or similar error *
+*PS: Make sure your url is http not https otherwise you will still get "Site can't be reached" or similar error*
 
