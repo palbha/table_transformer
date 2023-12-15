@@ -9,7 +9,7 @@ Run the below commands step by step <br>
             <li>#Run App using <br> streamlit run streamlit_app.py item</li>
 </ol>
 Once you see the below <br>
-![image](https://github.com/palbha/table_transformer/assets/20269788/190eae28-a5ed-4850-81cc-39e006401e21)
+
 
 
 
