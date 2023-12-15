@@ -9,10 +9,10 @@ Run the below commands step by step <br>
             <li>#Run App using <br> streamlit run streamlit_app.py item</li>
 </ol>
 Once you see the below<br>
-![image](https://github.com/palbha/table_transformer/assets/20269788/0716f489-4856-44d2-9c02-37c48fe25447)
+![image 1](https://github.com/palbha/table_transformer/assets/20269788/0716f489-4856-44d2-9c02-37c48fe25447)
 
 You should update the Security group inbound rules to add port 8501 <br>
-![image](https://github.com/palbha/table_transformer/assets/20269788/7d23148d-a92d-4ee4-bd07-111d4936e858)
+![image 2](https://github.com/palbha/table_transformer/assets/20269788/7d23148d-a92d-4ee4-bd07-111d4936e858)
 
 Once done you can click on the link and your app will be up and running . <br>
 * PS: Make sure your url is http not https otherwise you will still get "Site can't be reached" or similar error *
